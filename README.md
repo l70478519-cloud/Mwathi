@@ -22,7 +22,7 @@ My portfolio is intentionally balanced across:
 - **Cloud and DevOps** — infrastructure as code, CI/CD, GitOps, observability, resilience, and recovery
 - **Data and AI** — analytics, ETL pipelines, fraud detection, document processing, and intelligent workflows
 
-> Some professional and government-related work is confidential. Those repositories remain private and are represented only through sanitized, non-sensitive descriptions when appropriate.
+> Some professional, client, and government-related work is confidential. Those repositories remain private. Access to eligible private repositories may be considered **only under a signed NDA and with the relevant client or government authorization**.
 
 ## Featured Projects
 
@@ -74,7 +74,11 @@ The projects in this portfolio are being developed in stages. Some are deployabl
 
 ## Confidential Work
 
-I do not publish source code, credentials, datasets, infrastructure details, client information, or operational documentation from sensitive engagements. Where permitted, I can discuss my role, the technologies used, the problem addressed, and measurable outcomes at a high level.
+I do not publish source code, credentials, datasets, infrastructure details, client information, or operational documentation from sensitive engagements.
+
+**Private repository access is not publicly available. It may be granted only under a signed non-disclosure agreement (NDA), following identity and purpose verification, and where the applicable client, employer, or government authority permits disclosure. An NDA does not override third-party confidentiality obligations.**
+
+Where permitted, I can provide a sanitized demonstration or discuss my role, the technologies used, the problem addressed, and measurable outcomes at a high level.
 
 ## Connect
 
