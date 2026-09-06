@@ -10,3 +10,5 @@
 .contact{background:linear-gradient(135deg,#00e5ff,#77f4ff)}footer p a{color:var(--lime)}
 @keyframes blink{50%{opacity:0}}
 @media(max-width:860px){.nav-wrap nav{background:#0b1829;border:1px solid rgba(0,229,255,.2)}.menu{color:#fff}}
+
+.nav-wrap nav a.active{color:var(--lime)}.nav-wrap nav a:not(.nav-cta){position:relative}.nav-wrap nav a.active:not(.nav-cta):after{content:"";position:absolute;left:0;right:0;bottom:-8px;height:2px;background:var(--lime)}
